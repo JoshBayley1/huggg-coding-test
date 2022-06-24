@@ -1,14 +1,16 @@
-#Huggg test
+
+# Huggg test
 This is my submission for the coding test provided by huggg
 
-##Suggest improvements
-Given more time, I would have liked to do the following:
-    - More automated tests
-    - Better error handling
-    - Less hard code
-    - Clusters in the maps, depending on zoom
-    - Hugggs pins, instead of the maps built in ones
-    - Nicer overall design/nicer repsonsive design
+
+### Upcoming features
+
+- Contact me page: To safely send me an email with details
+- "Just for fun": An interactive page with some mini-games, portfolio websites don't have to be boring after all!
+- Easter eggs: I'll keep this one a secret to myself for now :)
+- Web Hosting: So a pre-built production page is available, can't always rely on everyone to run my code.
+- Light/Dark mode toggle: A way to change between themes
+    
 ---
 
 # Getting Started with Create React App
