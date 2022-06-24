@@ -1,0 +1,90 @@
+
+.main-title {
+  margin-top: 0;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.client-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.logo-wrapper {
+  width: 25%;
+  border: 2px solid #eee;
+  border-radius: 10px;
+  padding: 10px;
+  height: 25vw;
+  max-height: 400px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  cursor: pointer;
+  flex: 1 0 28%;
+  margin: 45px;
+}
+
+.logo-wrapper > img {
+  max-width: 100%;
+  align-self: center;
+  max-height: 80%;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.logo-wrapper > h3 {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.client-data-panel {
+  position: absolute;
+  height: 50%;
+  width: 50%;
+  top: 25%;
+  left: 25%;
+  background-color: #fff;
+  border: 5px solid #444;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.client-data-panel > h4 {
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+.exit-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: transparent;
+  border: 2px solid black;
+  cursor: pointer;
+}
+
+.background-fade-container {
+  height: 100%;
+  width: 100%;
+}
+
+.background-fade {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(100, 100, 100, 0.7);
+}
+
+.map-container {
+  width: 80%;
+  margin: auto;
+  height: 70%;
+}
+
+.map-container > div {
+  height: 100% !important;
+}

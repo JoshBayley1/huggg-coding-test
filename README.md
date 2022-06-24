@@ -1,3 +1,16 @@
+#Huggg test
+This is my submission for the coding test provided by huggg
+
+##Suggest improvements
+Given more time, I would have liked to do the following:
+    - More automated tests
+    - Better error handling
+    - Less hard code
+    - Clusters in the maps, depending on zoom
+    - Hugggs pins, instead of the maps built in ones
+    - Nicer overall design/nicer repsonsive design
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
